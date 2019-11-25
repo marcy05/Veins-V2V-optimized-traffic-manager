@@ -1,10 +1,9 @@
 /*
- * VehicleData.cpp
- *
- *  Created on Nov 29, 2018
- *      Author: Marcello Sgarbi
- *
- */
+* Project           : VTL
+* Author            : Marcello Sgarbi
+* Date              : Nov 29, 2018
+* Purpose           : Create a data structure to handle received messages
+*/
 
 #include "VehicleData.h"
 

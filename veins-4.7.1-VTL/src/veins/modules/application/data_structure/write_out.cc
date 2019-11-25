@@ -4,8 +4,8 @@
 void wrt::wout(std::string &text)
 {
     std::string dataok, path1;
-    //path1 = "C:/workspace_veins-4.7.1acc_id/log/log.xml";
-    path1 = "E:/log/log.xml";
+    // TODO: define the path for the log.xml file 
+    path1 = "C:/log/log.xml";
     std::ofstream myfile(path1, std::ios::app);
 
     if (myfile.is_open()) {
@@ -19,8 +19,8 @@ void wrt::w2Storage(std::string &text, int id, std::string type)
     if(type == "")
     {
         std::string path;
-        //path = "C:/workspace_veins-4.7.1acc_id/log/CarInternalStorage";
-        path = "E:/log/CarInternalStorage";
+        // TODO: define the path for the CarInternalStorage.xml file 
+        path = "C:/log/CarInternalStorage";
         path += std::to_string(id) + ".xml";
         std::ofstream myfile(path, std::ios::app);
 
@@ -32,8 +32,8 @@ void wrt::w2Storage(std::string &text, int id, std::string type)
     if(type == "csv")
     {
         std::string path;
-        //path = "C:/workspace_veins-4.7.1acc_id/log/CarInternalStorage.csv";
-        path = "E:/log/CarInternalStorage.csv";
+        // TODO: define the path for the CarInternalStorage.csv file
+        path = "C:/log/CarInternalStorage.csv";
         std::ofstream myfile(path, std::ios::app);
 
         if (myfile.is_open()) {
@@ -131,22 +131,8 @@ void wrt::printStorage(std::map<int, VehicleData> storage, std::string path, int
                 myfile << std::endl;
             }
 
-            //Print the vehicle's id with which I got in contact to
-            /*
-            myfile << "\nall seen vehicle id:" <<std::endl;
-            std::map<double, std::vector<int>> mapAllVehicle = storage[mobilityID].getAllSeenVehicle();
-
-            for(std::map<double, std::vector<int>>::iterator it = mapAllVehicle.begin(); it != mapAllVehicle.end(); ++it)
-            {
-                myfile << "\theding: " << it->first << " -> ";
-                for(std::vector<int>::iterator sit = it->second.begin(); sit != it->second.end(); ++sit){
-                    myfile << *sit << " ";
-                }
-                myfile << std::endl;
-             }
-             */
-
-
+            
+            // Print the leader messages sent and received
             std::map<int, std::string> leadersString = storage[mobilityID].getLeadersMap();
             myfile << "\nLeaderString:\n";
             for(std::map<int, std::string>::iterator it = leadersString.begin(); it != leadersString.end(); ++it)
@@ -154,6 +140,7 @@ void wrt::printStorage(std::map<int, VehicleData> storage, std::string path, int
                 myfile << it->first << ": " << it->second << std::endl;
             }
 
+            // Print which coded message (sent by the leader or forwarded by other cars) a car has received
             myfile << "\n\nStored Messages for all vehicle in storage:" <<std::endl;
             for(std::map<int, VehicleData>::iterator it = storage.begin(); it != storage.end(); ++it)
             {
@@ -165,6 +152,7 @@ void wrt::printStorage(std::map<int, VehicleData> storage, std::string path, int
                 }
             }
 
+            // Print the forwarded message by the vehicle
             myfile << "\nBROADCAST MESSAGE:" <<std::endl;
             myfile << storage[mobilityID].getBroadcastIdSet() << std::endl;
 
@@ -203,7 +191,7 @@ void wrt::printStorage(std::map<int, VehicleData> storage, std::string path, int
                     myfile << it->second.getQueuePosition() << std::endl;
 
                 }
-        //myfile << "</Worksheet>" << std::endl;
+        
 
         if(mobilityID != -1)
                 {
@@ -226,21 +214,6 @@ void wrt::printStorage(std::map<int, VehicleData> storage, std::string path, int
                         myfile << std::endl;
                     }
 
-                    //Print the vehicle's id with which I got in contact to
-                    /*
-                    myfile << "\nall seen vehicle id:" <<std::endl;
-                    std::map<double, std::vector<int>> mapAllVehicle = storage[mobilityID].getAllSeenVehicle();
-
-                    for(std::map<double, std::vector<int>>::iterator it = mapAllVehicle.begin(); it != mapAllVehicle.end(); ++it)
-                    {
-                        myfile << "heding: " << it->first << std::endl;
-                        for(std::vector<int>::iterator sit = it->second.begin(); sit != it->second.end(); ++sit){
-                            myfile << *sit << ",";
-                        }
-                        myfile << std::endl;
-                     }
-
-                    */
 
                     std::map<int, std::string> leadersString = storage[mobilityID].getLeadersMap();
                     myfile << "\nLeaderString:\n";
