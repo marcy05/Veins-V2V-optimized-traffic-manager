@@ -16,9 +16,6 @@
   - Please refer to their main site to know how to install them and to have an overview.
 						  
 
-- Before using it: Please go through the following files in order to avoid errors.
-
-
 - TODO: The folder contains references to personal paths. TODO tags have been used to highlights, to other users, where they have to modify the code with their own modification.
 
 
