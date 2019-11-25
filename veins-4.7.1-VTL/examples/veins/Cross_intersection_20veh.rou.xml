@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes> 
+    <!-- Vehicle parameters definitions http://sumo.dlr.de/wiki/Definition_of_Vehicles,_Vehicle_Types,_and_Routes --> 
+    <vType id="CarA"  accel="2.6" decel="5" sigma="0.5" minGap="1" maxSpeed="50.0"/> 
+    <vType id="CarB"  accel="2.6" decel="4.5" sigma="0.5" minGap="1" maxSpeed="90.0"/> 
+   <!-- routes --> 
+    <route id="route1" edges="D5 D6" /> <!-- W2E -->
+    <route id="route2" edges="D7 D8" /> <!-- E2W -->
+    <route id="route3" edges="D1 D2" /> <!-- S2N -->
+    <route id="route4" edges="D3 D4" /> <!-- N2S -->
+    <route id="route5" edges="D5 D4" /> <!-- W2S -->
+    <route id="route6" edges="D5 D2" /> <!-- W2N -->
+    <route id="route7" edges="D7 D2" /> <!-- E2N -->
+    <route id="route8" edges="D7 D4" /> <!-- E2S -->
+    <route id="route9" edges="D1 D6" /> <!-- S2W -->
+    <route id="route10" edges="D1 D8" /> <!-- S2E -->
+    <route id="route11" edges="D3 D8" /> <!-- N2W -->
+    <route id="route12" edges="D3 D6" /> <!-- N2E -->
+
+    <!-- vehicle generation --> 
+    <vehicle depart="0" id="0" route="route7" type="CarA" departSpeed="13.5" />
+    <vehicle depart="0" id="1" route="route11" type="CarA" departSpeed="13.5" />
+    <vehicle depart="0" id="2" route="route1" type="CarA" departSpeed="13.5" />
+    <vehicle depart="0" id="3" route="route3" type="CarA" departSpeed="13.5" />
+
+    <vehicle depart="0" id="4" route="route2" type="CarA" departSpeed="13.5" />
+    <vehicle depart="0" id="5" route="route4" type="CarA" departSpeed="13.5" />
+    <vehicle depart="0" id="6" route="route1" type="CarA" departSpeed="13.5"/>
+    <vehicle depart="0" id="7" route="route10" type="CarA" departSpeed="13.5" />
+
+    <vehicle depart="0" id="8" route="route8" type="CarA" departSpeed="13.5" />
+    <vehicle depart="0" id="9" route="route12" type="CarA" departSpeed="13.5" />
+    <vehicle depart="0" id="10" route="route5" type="CarA" departSpeed="13.5" />
+
+    <vehicle depart="0" id="11" route="route2" type="CarA" departSpeed="13.5" />
+    <vehicle depart="0" id="12" route="route11" type="CarA" departSpeed="13.5" />
+    
+    <vehicle depart="0" id="13" route="route2" type="CarA" departSpeed="13.5" />
+    <vehicle depart="0" id="14" route="route4" type="CarA" departSpeed="13.5" />
+    
+    <vehicle depart="0" id="15" route="route7" type="CarA" departSpeed="13.5" />
+    <vehicle depart="0" id="16" route="route11" type="CarA" departSpeed="13.5" />
+    
+    <vehicle depart="0" id="17" route="route2" type="CarA" departSpeed="13.5" />
+    <vehicle depart="0" id="18" route="route4" type="CarA" departSpeed="13.5" />
+    <vehicle depart="0" id="19" route="route4" type="CarA" departSpeed="13.5" />
+    
+    
+    
+
+
+</routes>

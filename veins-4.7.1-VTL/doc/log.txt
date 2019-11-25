@@ -1,0 +1,7872 @@
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 2
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 1 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 2 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 3 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 4 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 5 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 6 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 7 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 8 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 9 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 10 map position: 8
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 2
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 4
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 4
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 1
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(1) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(2) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 3
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 6 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 7 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 8 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 9 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 10 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 11 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 6 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 7 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 8 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 9 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 10 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 11 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 6 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 7 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 8 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 9 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 10 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 11 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 6 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 7 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 8 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 9 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 10 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 11 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 6 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 7 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 8 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 9 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 10 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 11 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 4 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 6 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 7 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 8 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 9 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 10 map position: 5
+[Error!]:
+	Car .at(0) not restart.
+	Solution: 11 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 0 map position: 4
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 1 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 2 map position: 5
+[Error!]:
+	Car .at(3) not restart.
+	Solution: 3 map position: 5

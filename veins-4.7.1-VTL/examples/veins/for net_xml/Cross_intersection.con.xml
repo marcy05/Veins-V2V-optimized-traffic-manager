@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/connections_file.xsd">
+    <connection from="D5" to="D6" fromLane="0" toLane="0" />
+    <connection from="D7" to="D8" fromLane="0" toLane="0" />
+    <connection from="D3" to="D4" fromLane="0" toLane="0" />
+    <connection from="D1" to="D2" fromLane="0" toLane="0" />
+    
+</connections>
+
+<!-- http://sumo.dlr.de/wiki/Networks/SUMO_Road_Networks#Connections -->

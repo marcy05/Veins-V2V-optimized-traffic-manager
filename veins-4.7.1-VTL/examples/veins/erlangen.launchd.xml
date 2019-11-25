@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- debug config -->
+<launch>
+	<copy file="Cross_intersection.net.xml" />
+	<copy file="Cross_intersection.rou.xml" />
+	<copy file="Cross_intersection.poly.xml" />
+	<copy file="Cross_intersection.sumo.cfg" type="config" />
+</launch>
+

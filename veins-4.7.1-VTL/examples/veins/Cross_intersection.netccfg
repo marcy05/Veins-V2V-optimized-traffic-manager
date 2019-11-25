@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <node-files value="Cross_intersection_semaphore.nod.xml"/>
+        <edge-files value="Cross_intersection.edg.xml"/>
+        <connection-files value="Cross_intersection.con.xml"/>
+        <type-files value="Cross_intersection.typ.xml"/>
+    </input>
+
+    <output>
+        <output-file value="Cross_intersection.net.xml"/>
+    </output>
+
+    <processing>
+        <no-turnarounds value="true"/>
+    </processing>
+
+    <report>
+        <verbose value="true"/>
+    </report>
+
+</configuration>

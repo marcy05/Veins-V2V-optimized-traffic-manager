@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes> 
+    <!-- Vehicle parameters definitions http://sumo.dlr.de/wiki/Definition_of_Vehicles,_Vehicle_Types,_and_Routes --> 
+    <vType id="CarA"  accel="2.6" decel="4.5" sigma="0.5" minGap="2.0" maxSpeed="50.0"/> 
+    <vType id="CarB"  accel="2.6" decel="4.5" sigma="0.5" minGap="2.0" maxSpeed="90.0"/> 
+   <!-- routes --> 
+    <route id="route1" edges="D5 D6" /> <!-- W2E -->
+    <route id="route2" edges="D7 D8" /> <!-- E2W -->
+    <route id="route3" edges="D1 D2" /> <!-- S2N -->
+    <route id="route4" edges="D3 D4" /> <!-- N2S -->
+    <route id="route5" edges="D5 D4" /> <!-- W2S -->
+    <route id="route6" edges="D5 D2" /> <!-- W2N -->
+    <route id="route7" edges="D7 D2" /> <!-- E2N -->
+    <route id="route8" edges="D7 D4" /> <!-- E2S -->
+    <route id="route9" edges="D1 D6" /> <!-- S2W -->
+    <route id="route10" edges="D1 D8" /> <!-- S2E -->
+    <route id="route11" edges="D3 D8" /> <!-- N2W -->
+    <route id="route12" edges="D3 D6" /> <!-- N2E -->
+
+    <!-- vehicle generation --> 
+    <vehicle depart="0.0" id="0" route="route7" type="CarA" />
+    <vehicle depart="0.0" id="1" route="route11" type="CarA" />
+    <vehicle depart="0.0" id="2" route="route6" type="CarA" />
+    <vehicle depart="0.0" id="3" route="route10" type="CarA" />
+
+    <vehicle depart="0.5" id="4" route="route2" type="CarA" />
+    <vehicle depart="0.5" id="5" route="route4" type="CarA" />
+    <vehicle depart="0.5" id="6" route="route1" type="CarA" />
+    <vehicle depart="0.5" id="7" route="route3" type="CarA" />
+
+    <vehicle depart="1.0" id="8" route="route8" type="CarA" />
+    <vehicle depart="1.0" id="9" route="route4" type="CarA" />
+    <vehicle depart="1.0" id="10" route="route1" type="CarA" />
+    <vehicle depart="1.0" id="11" route="route9" type="CarA" />
+
+    <vehicle depart="1.5" id="12" route="route2" type="CarA" />
+    <vehicle depart="1.5" id="13" route="route12" type="CarA" />
+    <vehicle depart="1.5" id="14" route="route5" type="CarA" />
+    <vehicle depart="1.5" id="15" route="route10" type="CarA" />
+
+    <vehicle depart="2.0" id="16" route="route7" type="CarA" />
+    <vehicle depart="2.0" id="17" route="route11" type="CarA" />
+    <vehicle depart="2.0" id="18" route="route1" type="CarA" />
+    <vehicle depart="2.0" id="19" route="route10" type="CarA" />
+
+    <vehicle depart="2.5" id="20" route="route2" type="CarA" />
+    <vehicle depart="2.5" id="21" route="route11" type="CarA" />
+    <vehicle depart="2.5" id="22" route="route6" type="CarA" />
+    <vehicle depart="2.5" id="23" route="route3" type="CarA" />
+
+    <vehicle depart="3.0" id="24" route="route7" type="CarA" />
+    <vehicle depart="3.0" id="25" route="route12" type="CarA" />
+    <vehicle depart="3.0" id="26" route="route5" type="CarA" />
+    <vehicle depart="3.0" id="27" route="route10" type="CarA" />
+
+    <vehicle depart="3.5" id="28" route="route2" type="CarA" />
+    <vehicle depart="3.5" id="29" route="route4" type="CarA" />
+    <vehicle depart="3.5" id="30" route="route1" type="CarA" />
+    <vehicle depart="3.5" id="31" route="route9" type="CarA" />
+
+    <vehicle depart="4.0" id="32" route="route2" type="CarA" />
+    <vehicle depart="4.0" id="33" route="route4" type="CarA" />
+    <vehicle depart="4.0" id="34" route="route6" type="CarA" />
+    <vehicle depart="4.0" id="35" route="route10" type="CarA" />
+
+    <vehicle depart="4.5" id="36" route="route2" type="CarA" />
+    <vehicle depart="4.5" id="37" route="route4" type="CarA" />
+    <vehicle depart="4.5" id="38" route="route5" type="CarA" />
+    <vehicle depart="4.5" id="39" route="route10" type="CarA" />
+
+    <vehicle depart="5.0" id="40" route="route7" type="CarA" />
+    <vehicle depart="5.0" id="41" route="route12" type="CarA" />
+    <vehicle depart="5.0" id="42" route="route1" type="CarA" />
+    <vehicle depart="5.0" id="43" route="route3" type="CarA" />
+
+    <vehicle depart="5.5" id="44" route="route8" type="CarA" />
+    <vehicle depart="5.5" id="45" route="route11" type="CarA" />
+    <vehicle depart="5.5" id="46" route="route6" type="CarA" />
+    <vehicle depart="5.5" id="47" route="route3" type="CarA" />
+
+    <vehicle depart="6.0" id="48" route="route7" type="CarA" />
+    <vehicle depart="6.0" id="49" route="route11" type="CarA" />
+    <vehicle depart="6.0" id="50" route="route5" type="CarA" />
+    <vehicle depart="6.0" id="51" route="route9" type="CarA" />
+
+    <vehicle depart="6.5" id="52" route="route8" type="CarA" />
+    <vehicle depart="6.5" id="53" route="route4" type="CarA" />
+    <vehicle depart="6.5" id="54" route="route5" type="CarA" />
+    <vehicle depart="6.5" id="55" route="route10" type="CarA" />
+
+    <vehicle depart="7.0" id="56" route="route8" type="CarA" />
+    <vehicle depart="7.0" id="57" route="route12" type="CarA" />
+    <vehicle depart="7.0" id="58" route="route5" type="CarA" />
+    <vehicle depart="7.0" id="59" route="route9" type="CarA" />
+
+    <vehicle depart="7.5" id="60" route="route7" type="CarA" />
+    <vehicle depart="7.5" id="61" route="route11" type="CarA" />
+    <vehicle depart="7.5" id="62" route="route1" type="CarA" />
+    <vehicle depart="7.5" id="63" route="route3" type="CarA" />
+
+    <vehicle depart="8.0" id="64" route="route2" type="CarA" />
+    <vehicle depart="8.0" id="65" route="route4" type="CarA" />
+    <vehicle depart="8.0" id="66" route="route1" type="CarA" />
+    <vehicle depart="8.0" id="67" route="route3" type="CarA" />
+
+    <vehicle depart="8.5" id="68" route="route2" type="CarA" />
+    <vehicle depart="8.5" id="69" route="route11" type="CarA" />
+    <vehicle depart="8.5" id="70" route="route1" type="CarA" />
+    <vehicle depart="8.5" id="71" route="route3" type="CarA" />
+
+    <vehicle depart="9.0" id="72" route="route7" type="CarA" />
+    <vehicle depart="9.0" id="73" route="route12" type="CarA" />
+    <vehicle depart="9.0" id="74" route="route1" type="CarA" />
+    <vehicle depart="9.0" id="75" route="route10" type="CarA" />
+
+    <vehicle depart="9.5" id="76" route="route7" type="CarA" />
+    <vehicle depart="9.5" id="77" route="route4" type="CarA" />
+    <vehicle depart="9.5" id="78" route="route6" type="CarA" />
+    <vehicle depart="9.5" id="79" route="route10" type="CarA" />
+
+    <vehicle depart="10.0" id="80" route="route2" type="CarA" />
+    <vehicle depart="10.0" id="81" route="route11" type="CarA" />
+    <vehicle depart="10.0" id="82" route="route5" type="CarA" />
+    <vehicle depart="10.0" id="83" route="route3" type="CarA" />
+
+    <vehicle depart="10.5" id="84" route="route2" type="CarA" />
+    <vehicle depart="10.5" id="85" route="route12" type="CarA" />
+    <vehicle depart="10.5" id="86" route="route5" type="CarA" />
+    <vehicle depart="10.5" id="87" route="route10" type="CarA" />
+
+    <vehicle depart="11.0" id="88" route="route7" type="CarA" />
+    <vehicle depart="11.0" id="89" route="route4" type="CarA" />
+    <vehicle depart="11.0" id="90" route="route1" type="CarA" />
+    <vehicle depart="11.0" id="91" route="route3" type="CarA" />
+
+    <vehicle depart="11.5" id="92" route="route2" type="CarA" />
+    <vehicle depart="11.5" id="93" route="route4" type="CarA" />
+    <vehicle depart="11.5" id="94" route="route5" type="CarA" />
+    <vehicle depart="11.5" id="95" route="route3" type="CarA" />
+
+    <vehicle depart="12.0" id="96" route="route8" type="CarA" />
+    <vehicle depart="12.0" id="97" route="route4" type="CarA" />
+    <vehicle depart="12.0" id="98" route="route5" type="CarA" />
+    <vehicle depart="12.0" id="99" route="route10" type="CarA" />
+
+
+</routes>
